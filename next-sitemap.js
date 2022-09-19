@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://startup-app-modern.vercel.app',
+  siteUrl: 'https://monumental-druid-52d216.netlify.app',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
