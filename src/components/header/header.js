@@ -116,7 +116,7 @@ const styles = {
       cursor: 'pointer',
       lineHeight: '1.2',
       '&.active': {
-        color: 'acccent',
+        color: 'accent',
       },
     },
   },
