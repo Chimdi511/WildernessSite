@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: 'https://monumental-druid-52d216.netlify.app',
+  siteUrl: 'monumental-druid-52d216.netlify.app',
   generateRobotsTxt: true,
   // optional
   // robotsTxtOptions: {
